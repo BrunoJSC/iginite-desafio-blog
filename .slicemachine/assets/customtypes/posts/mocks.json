@@ -1,0 +1,64 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "posts",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Greater",
+        "spans": []
+      }
+    ],
+    "first_publication_date": "2016-09-25",
+    "subtitle": [
+      {
+        "type": "paragraph",
+        "text": "Fugiat minim ipsum ipsum reprehenderit aliqua officia exercitation nostrud sunt.",
+        "spans": []
+      }
+    ],
+    "author": [
+      {
+        "type": "paragraph",
+        "text": "Tempor irure laborum nisi sit velit nulla reprehenderit aute ea qui laborum. Enim mollit esse commodo quis consectetur eiusmod nulla commodo irure. Do reprehenderit proident minim enim elit fugiat commodo nostrud eiusmod nostrud.",
+        "spans": []
+      }
+    ],
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1601933973783-43cf8a7d4c5f?fit=crop&w=900&h=500"
+    },
+    "content": [
+      {
+        "heading": [
+          {
+            "type": "paragraph",
+            "text": "Nostrud irure in duis. Do sint non ex irure exercitation nostrud aliquip id occaecat dolor duis proident commodo Lorem amet. Quis cillum adipisicing eiusmod minim consequat ea.",
+            "spans": []
+          }
+        ],
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Id officia incididunt aliqua eiusmod eiusmod consequat cillum id et veniam sint ut cillum non in. Ipsum aliquip et consectetur ad enim consectetur ipsum cillum pariatur. Nisi elit excepteur velit nisi anim cillum aute.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
